@@ -1,0 +1,33 @@
+﻿#DivPrincipal {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.MybotonCalculadora {
+    width: 50px;
+}
+
+.Mybotoncero {
+    width: 100px;
+}
+
+#txtResultadoId {
+    width: 204px;
+    height: 50px;
+}
+
+.MybotonOperador {
+    width: 50px;
+    background-color: red;
+}
+
+h1 {
+    border: solid;
+    border-color: crimson;
+}
+
+body {
+    background-color: burlywood;
+}
